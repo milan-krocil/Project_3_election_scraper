@@ -22,7 +22,14 @@ Instrukce pro spusteni:
 4. Zapis nazev vysledneho csv souboru. Napr vysledky_sumperk.csv
 
 Zapis do prikazoveho radku pro uvedeny priklad bude tedy vypadat nasledovne:
+
 python election_scraper "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7105" vysledky_sumperk.csv
+
+CASTECNY VYSTUP (ukazka csv souboru):
+![image](https://github.com/user-attachments/assets/b552dc21-dff8-4699-98dd-4436c4047344)
+
+
+
 
 
 
