@@ -11,6 +11,7 @@ Po vyberu uzemniho celku program(script) vycrapuje vysledky hlasovani pro vsechn
 Vyber uzemniho celku se provadi kliknutim na kod obce nebo "krizku" u vyberu obce.
 
 
+
 INSTALACE KNIHOVEN:
 
 Knihovny, ktere jsou pouzity v kodu, jsou ulozene v souboru requirements.txt. 
