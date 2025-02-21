@@ -23,7 +23,7 @@ Instrukce pro spusteni:
 
 Zapis do prikazoveho radku pro uvedeny priklad bude tedy vypadat nasledovne:
 
-python election_scraper "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7105" vysledky_sumperk.csv
+python election_scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7105" vysledky_sumperk.csv
 
 Pokud dojde k neuplnemu nebo spatnemu zadani, tak program na chybu upozorni.
 Napr:![image](https://github.com/user-attachments/assets/6f737ec4-2e56-4b38-a903-538b6b0924e0)
