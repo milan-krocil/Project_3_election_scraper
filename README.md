@@ -4,7 +4,8 @@ POPIS PROJEKTU:
 
 Tento projekt slouzi k extrahovani vysledku voleb z roku 2017. Odkaz na vysledky voleb je https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
 
-Po vyberu uzemniho celku program(script) vycrapuje vysledky hlasovani pro vsechny obce do csv souboru. Vyber uzemniho celku se provadi kliknutim na kod obce nebo "krizku" u vyberu obce.
+Po vyberu uzemniho celku program(script) vycrapuje vysledky hlasovani pro vsechny obce do csv souboru. 
+Vyber uzemniho celku se provadi kliknutim na kod obce nebo "krizku" u vyberu obce.
 ![image](https://github.com/user-attachments/assets/417c4301-4f8d-44f4-8bb7-6a28a43febdd)
 
 
