@@ -8,7 +8,7 @@ Po vyberu uzemniho celku program(script) vycrapuje vysledky hlasovani pro vsechn
 
 ![image](https://github.com/user-attachments/assets/417c4301-4f8d-44f4-8bb7-6a28a43febdd)
 
-Vyber uzemniho celku se provadi kliknutim na kod obce nebo "krizku" u vyberu obce.
+Poznamka: Vyber uzemniho celku se provadi kliknutim na kod obce nebo "krizku" u vyberu obce.
 
 
 
